@@ -1,8 +1,8 @@
 # CIFAR10 Model Evaluation
 
-In the Introduction to Artificial Intelligence course, we developed a baseline model based on the Lenet architecture to address the CIFAR10 classification task. Various techniques, including data augmentation, Batch Normalization, and the incorporation of Dropout layers, were employed to enhance the model's generalization capability and accuracy. After training for over 50 epochs, the predictive accuracy reached an impressive 86.6%.
+In the artificial intelligence course, I designed a baseline model based on the LeNet architecture to tackle the CIFAR10 classification task. I experimented with various techniques, including data augmentation, Batch Normalization, and Dropout, to enhance the model's generalization ability and accuracy. After training for 60 epochs, the accuracy reached 86.6%.
 
-Towards the end of the semester, we conducted experiments using the more powerful Resnet18 model. Remarkably, under the same training conditions, the Resnet18 model achieved a comparable level of predictive accuracy while utilizing fewer parameters.
+Towards the end of the course, I conducted experiments using the more powerful ResNet18 model. I observed that under the same training conditions, the ResNet18 model achieved a comparable level of accuracy with fewer epochs compared to the baseline model.
 
 
 ## Baseline model
